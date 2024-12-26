@@ -6,9 +6,7 @@ This Jupyter Notebook provides an in-depth analysis of incidents involving death
 - [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Key Findings](#key-findings)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The goal of this project is to shed light on patterns and trends in deaths caused by police interactions in the US. The analysis includes visualizations and statistical insights to better understand the data and its implications.
@@ -40,7 +38,8 @@ To run the Jupyter Notebook locally, follow these steps:
    ```bash
    cd death_analysis
    ```
-3. open the death_analysis.ipynb and run cells in order   
+## usage   
+   open the death_analysis.ipynb and run cells in order   
    
    
 
