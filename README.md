@@ -32,7 +32,7 @@ To run the Jupyter Notebook locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/death_analysis
+   git clone https://github.com/Pooja389/death_analysis
     ```
 2. Navigate to directory
    ```bash
